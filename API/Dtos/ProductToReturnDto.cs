@@ -11,4 +11,4 @@ namespace API.Dtos
        public string ProductBrand { get; set; }
     
     }
-}
+} 
